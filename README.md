@@ -148,7 +148,7 @@ MoGuDing-Auto
 - 企业微信群机器人
 - 钉钉群机器人
 - 飞书群机器人
-- 自定义微信测试号
+- 自定义微信测试号.
 - 方糖服务号
 
 1. 前往 [sct.ftqq.com](https://sct.ftqq.com/sendkey)点击登入，创建账号。
